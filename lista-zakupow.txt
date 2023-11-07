@@ -1,3 +1,4 @@
 chleb 1
 jajka 2
 maslo 3
+ryz   3.20
